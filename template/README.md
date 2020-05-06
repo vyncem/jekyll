@@ -1,0 +1,1 @@
+To run `npm install -g gulp; npm install; npm start`
