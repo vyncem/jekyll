@@ -23,7 +23,7 @@ email: thewriteone.co.ke@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Your personalized stationery store.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "thewriteone.co.ke" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://thewriteone.co.ke # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: thewriteone.co.ke
 github_username:  thewriteone.co.ke
 
@@ -34,6 +34,8 @@ plugins:
 
 keep_files:
   - assets/app.css
+  - assets/app.js
+  - assets/favicon.ico
 
 # Exclude from processing.
 # The following items will not be processed, by default.
