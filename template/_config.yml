@@ -33,8 +33,10 @@ plugins:
   - jekyll-feed
 
 keep_files:
-  - assets/app.css
-  - assets/app.js
+  - assets/foundation.css
+  - assets/foundation.js
+  - assets/jquery.js
+  - assets/what-input.js
   - assets/favicon.ico
 
 # Exclude from processing.
