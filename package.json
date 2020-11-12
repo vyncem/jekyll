@@ -10,11 +10,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.26.13",
     "foundation-sites": "^6.6.3",
     "gulp": "^4.0.2",
     "gulp-shell": "^0.8.0",
     "jquery": "^3.5.1",
-    "what-input": "^5.2.9"
+    "what-input": "^5.2.10"
   }
 }
